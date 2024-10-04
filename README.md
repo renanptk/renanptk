@@ -1,8 +1,8 @@
-### Hi there 👋
+### Opa 👋
 
-- 🌱 I’m currently learning Advanced Excel
+- 🌱 Atualmente estou aprendendo Excel Avançado
 
-### Best technologies 
+### Melhores Tecnologias
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60"/>
@@ -10,7 +10,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="60"/>
 </div>
 
-### My Stats
+### Meus Status
 
 <div>
   <a href="https://github.com/renanptk">
@@ -18,7 +18,7 @@
   </a>
 </div>
 
-### Contacts
+### Contatos
 
 <div>
   <a href="https://mail.google.com/mail/u/4/#inbox">
