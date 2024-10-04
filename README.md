@@ -14,7 +14,7 @@
 
 <div>
   <a href="https://github.com/renanptk">
-   ![Renan Patrick GitHub stats](https://github-readme-stats.vercel.app/api?username=renanptk&show_icons=true&theme=radical)
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renanptk&show_icons=true&theme=radical)" />
   </a>
 </div>
 
