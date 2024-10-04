@@ -2,7 +2,7 @@
 
 - 🌱 Atualmente estou aprendendo Excel Avançado
 
-### Melhores Tecnologias
+### Skills
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60"/>
