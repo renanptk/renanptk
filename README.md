@@ -2,20 +2,20 @@
 
 - 🌱 Atualmente estou aprendendo Excel Avançado
 
-### Skills
-
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="60"/>
-</div>
-
 ### Meus Status
 
 <div>
   <a href="https://github.com/renanptk">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renanptk&show_icons=true&theme=tokyonight"/>
   </a>
+</div>
+
+### Skills
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="60"/>
 </div>
 
 ### Contatos
