@@ -16,7 +16,7 @@
   <a href="https://mail.google.com/mail/u/4/#inbox">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="www.linkedin.com/in/renanpatrick">
+  <a href="https://linkedin.com/in/renanpatrick">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
