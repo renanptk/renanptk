@@ -10,6 +10,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="60"/>
 </div>
 
+### My Stats
+
+<div>
+  <a href="https://github.com/renanptk">
+    <img height="180em" src="https://github-readme-stacts.vercel.app/api/top-langs/?username=renanptk&layout=compact&langs_count=7&theme=dark"/>
+    <img height="180em" src="https://github-readme-stacts.vercel.app/api?username=renanptk&show_icons=true&theme=dark&include_all_comits=true&count_private=true"/>
+  </a>
+</div>
+
 ### Contacts
 
 <div>
