@@ -14,7 +14,7 @@
 
 <div>
   <a href="https://github.com/renanptk">
-    <img height="180ecm" src="https://github-readme-stacts.vercel.app/api/top-langs/?username=renanptk&layout=compact&langs_count=7&theme=dark"/>
+    <img height="180cm" src="https://github-readme-stacts.vercel.app/api/top-langs/?username=renanptk&layout=compact&langs_count=7&theme=dark"/>
     <img height="180cm" src="https://github-readme-stacts.vercel.app/api?username=renanptk&show_icons=true&theme=dark&include_all_comits=true&count_private=true"/>
   </a>
 </div>
